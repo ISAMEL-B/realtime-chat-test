@@ -1,0 +1,13 @@
+/* base.css - Common styles used across all pages */
+:root {
+    --primary-color: #00a884;
+    --secondary-color: #25d366;
+    --text-dark: #111b21;
+    --text-medium: #54656f;
+    --text-light: #667781;
+    --bg-light: #f0f2f5;
+    --bg-chat: #eae6df;
+    --white: #ffffff;
+}
+
+/* Add any truly global styles here if needed */
