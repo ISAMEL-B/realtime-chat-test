@@ -1,7 +1,7 @@
 <?php
 define('ENVIRONMENT', 'development'); // Change to 'production' in live
 $host = 'localhost';
-$dbname = 'bisure1';
+$dbname = 'bisure';
 $username = 'root';
 $password = '';
 
